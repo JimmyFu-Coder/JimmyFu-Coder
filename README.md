@@ -20,7 +20,7 @@ Welcome to my GitHub page! I am Jimmy Fu, finishing my Master IT degree at the U
  
 #### :computer: Programming languages and tools: 
 <p>
- <img align="right" alt="img" src="https://files.codingninjas.in/438375-17407.webp" width="50%" height="auto" />
+ <img align="right" alt="img" src="https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software.jpeg" width="50%" height="auto" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
