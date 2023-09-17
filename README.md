@@ -21,7 +21,10 @@ Welcome to my GitHub page! I am Jimmy Fu, finishing my Master IT degree at the U
  
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=JimmyFu-Coder&show_icons=true&hide_border=true" />
+	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimmyFu-Coder)](https://github.com/anuraghazra/github-readme-stats)
+————————————————
+版权声明：本文为CSDN博主「夏天｜여름이다」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/weixin_44649780/article/details/128277355
  
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
