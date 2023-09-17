@@ -7,7 +7,7 @@
  
 Welcome to my GitHub page! I am Jimmy Fu, finishing my Master IT degree at the UWA!  
  
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://www.des-show.com/app/uploads/artificial-intelligence-2167835_1920-e1617184783257.jpg" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on: 
