@@ -20,7 +20,7 @@ Welcome to my GitHub page! I am Jimmy Fu, finishing my Master IT degree at the U
  
 #### :computer: Programming languages and tools: 
 <p>
- <img align="right" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codingninjas.com%2F&psig=AOvVaw3FjIHBs1Su-9RT042Hai4o&ust=1695044531060000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLDa8YzjsYEDFQAAAAAdAAAAABAU" width="50%" height="auto" />
+ <img align="right" alt="img" src="https://files.codingninjas.in/438375-17407.webp" width="50%" height="auto" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
